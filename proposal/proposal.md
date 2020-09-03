@@ -13,6 +13,13 @@
 ## Component Hierarchy
 ---
 ![alt text](img/Comphier.png)
+
+## Api 
+---
+[Global Wine Score](https://globalwinescore.docs.apiary.io/#introduction/quick-search-interface)
+
+![alt text](img/wineapi.png)
+
 ## Users Stories
 ---
 
